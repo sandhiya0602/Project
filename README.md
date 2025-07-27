@@ -82,6 +82,7 @@ The objective is to understand revenue trends, top-performing products and store
 ## 💼 What I Learned
 
 This project strengthened my skills in:
+- Building business dashboards in Power BI
 - Creating dynamic visuals and calendar heat maps
 - Writing DAX for MoM calculations and KPIs
 - Designing user-friendly and insightful reports
